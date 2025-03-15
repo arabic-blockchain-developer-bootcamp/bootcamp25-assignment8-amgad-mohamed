@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
-import {Test} from "forge-std/Test.sol";
+import {Test} from "lib/forge-std/src/Test.sol";
 import {Assignment8} from "../src/Assignment8.sol";
 
 contract Assignment8Test is Test {
